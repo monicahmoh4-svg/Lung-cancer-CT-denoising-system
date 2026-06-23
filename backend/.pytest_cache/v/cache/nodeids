@@ -1,0 +1,11 @@
+[
+  "tests/test_pipeline.py::test_agf_output_shape",
+  "tests/test_pipeline.py::test_full_pipeline_no_dncnn",
+  "tests/test_pipeline.py::test_haar_dwt_reconstruct",
+  "tests/test_pipeline.py::test_mse_identical",
+  "tests/test_pipeline.py::test_noise_estimation_mad",
+  "tests/test_pipeline.py::test_noise_estimation_wavelet",
+  "tests/test_pipeline.py::test_pipeline_improves_psnr",
+  "tests/test_pipeline.py::test_psnr_identical",
+  "tests/test_pipeline.py::test_ssim_identical"
+]
